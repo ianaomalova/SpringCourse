@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58d65893-cbc6-4b90-8d69-02f4263ee8ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="58d65893-cbc6-4b90-8d69-02f4263ee8ba" name="Changes" comment="git init + IoC &amp; DI">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring_introduction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring_introduction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring_introduction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring_introduction/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring_introduction/Test3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +50,7 @@
     "project.structure.side.proportion": "0.0",
     "settings.build.tools.auto.reload": "ALL",
     "settings.editor.selected.configurable": "build.tools",
+    "spring.configuration.checksum": "9b53fb1ff443d8dbf0d085479fc14677",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -118,11 +111,35 @@
       <option name="presentableId" value="Default" />
       <updated>1693226052431</updated>
       <workItem from="1693226054534" duration="379000" />
-      <workItem from="1693226675122" duration="3697000" />
+      <workItem from="1693226675122" duration="6621000" />
+      <workItem from="1693305698306" duration="4530000" />
     </task>
+    <task id="LOCAL-00001" summary="git init + IoC &amp; DI">
+      <created>1693230820451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693230820451</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git init + IoC &amp; DI" />
+    <option name="LAST_COMMIT_MESSAGE" value="git init + IoC &amp; DI" />
   </component>
 </project>

@@ -9,6 +9,23 @@
 
 
     <bean id="myPet"
-          class="spring_introduction.Dog">
+          class="spring_introduction.Cat">
+    </bean>
+
+<!--    Внедрение с помощью конструктора-->
+<!--    <bean id="myPerson"-->
+<!--            class="spring_introduction.Person">-->
+<!--        <constructor-arg ref="myPet">-->
+
+<!--        </constructor-arg>-->
+<!--    </bean>-->
+
+    <bean id="myPerson" class="spring_introduction.Person">
+        <property name="pet" ref="myPet">
+        </property>
+        <property name="surname" value="Malova">
+        </property>
+        <property name="age" value="24">
+        </property>
     </bean>
 </beans>
